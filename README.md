@@ -1,37 +1,46 @@
 # 🛍️ Retail Sales Analysis using Microsoft Excel
 
-> An end-to-end Excel data analytics project that analyzes retail sales performance, product trends, city-wise revenue, category performance, and the impact of discounts to generate actionable business insights.
+<p align="center">
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Project-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+</p>
 
 ---
 
-## 📌 Project Overview
+## 📖 Project Overview
 
-This project analyzes a retail sales dataset to identify business trends, product performance, profitability, and customer purchasing patterns. Using Microsoft Excel, interactive dashboards and visualizations were created to help management understand sales performance and make data-driven decisions. :contentReference[oaicite:0]{index=0}
+This project is an end-to-end **Retail Sales Analysis** built using **Microsoft Excel**. It analyzes retail transaction data to uncover sales trends, product performance, city-wise revenue, profitability, and the impact of discounts on business performance.
+
+The project demonstrates how Excel can be used for business intelligence by transforming raw sales data into interactive dashboards and actionable insights.
 
 ---
 
-## 🎯 Business Problem
+# 🎯 Business Problem
 
 A retail store experienced declining sales over the last six months.
 
-The management wanted answers to the following questions:
+The management wanted to answer the following questions:
 
 - Why are sales decreasing?
-- Which products generate the highest revenue?
-- Which cities perform the best?
+- Which products perform the best?
+- Which cities generate the highest revenue?
 - Which months have weak sales?
 - Which product category needs improvement?
 
-The objective was to uncover insights that could improve sales and profitability. :contentReference[oaicite:1]{index=1}
+The objective was to identify opportunities to increase revenue and profitability through data-driven decision making.
 
 ---
 
 # 📂 Dataset
 
-The dataset contains retail transaction data with the following fields:
+The dataset contains retail transaction records with the following columns:
 
 | Column |
-|----------|
+|---------|
 | Order ID |
 | Date |
 | Customer Name |
@@ -45,65 +54,47 @@ The dataset contains retail transaction data with the following fields:
 
 ---
 
-# 🛠️ Tools Used
+# 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Slicers
+- Excel Formulas
 - Conditional Formatting
-- Excel Functions
 - Dashboard Design
+- Data Visualization
 
 ---
 
-# 📊 KPI Analysis
+# 📊 Dashboard KPIs
 
-- 💰 Total Sales
-- 📈 Total Profit
-- 📅 Monthly Sales Trend
-- 🏆 Top 10 Products
-- 📉 Worst Performing Products
-- 🌍 Highest Revenue City
-- 📦 Sales by Category
-- 🎯 Discount vs Profit Analysis
+✔ Total Sales
+
+✔ Total Profit
+
+✔ Monthly Sales Trend
+
+✔ Top 10 Products
+
+✔ Worst Performing Products
+
+✔ Highest Revenue City
+
+✔ Sales by Category
+
+✔ Discount vs Profit Analysis
 
 ---
 
-# 📈 Dashboard Insights
+# 📈 Key Business Insights
 
-### 💰 Overall Performance
-
-- Total Sales: **₹30.87 Lakhs**
-- Total Profit: **₹2.40 Lakhs**
-
-### 📅 Monthly Sales
-
-- Highest Sales Month → **June**
-- Lowest Sales Month → **August**
-
-### 🏆 Best Product
-
-- Cabinet
-
-### 📉 Lowest Performing Product
-
-- Sofa
-
-### 🌍 Highest Revenue City
-
-- Delhi
-
-### 📦 Best Category
-
-- Furniture
-
-### 🎯 Discount Analysis
-
-- Higher discounts reduced profitability.
-- Discounts above 25–30% significantly lowered profit margins.
-
-:contentReference[oaicite:2]{index=2}
+- 💰 Generated **₹30.87 Lakhs** in Total Sales.
+- 📈 Earned **₹2.40 Lakhs** in Total Profit.
+- 🏆 Delhi generated the highest revenue.
+- 🪑 Furniture was the best-performing category.
+- 📦 Cabinet was the highest-selling product.
+- 📉 August recorded the lowest monthly sales.
+- 🎯 Higher discounts significantly reduced profitability.
 
 ---
 
@@ -112,50 +103,30 @@ The dataset contains retail transaction data with the following fields:
 - Launch promotional campaigns during low-sales months.
 - Increase inventory for top-performing products.
 - Improve or bundle low-performing products.
-- Expand marketing in high-revenue cities.
-- Reduce excessive discounts and use targeted offers.
-
-:contentReference[oaicite:3]{index=3}
+- Expand marketing efforts in high-revenue cities.
+- Limit excessive discounts to improve profit margins.
 
 ---
 
-# 📷 Dashboard Preview
+# 📄 Analysis Report
 
-## Dashboard
+A detailed project report containing complete business analysis, dashboards, insights, and recommendations is available below.
 
-<img width="100%" src="Images/dashboard.png">
+📥 **[View Full Analysis Report](Analysis%20Report.pdf)**
 
----
+The report includes:
 
-## Monthly Sales Trend
-
-<img width="100%" src="Images/monthly_sales.png">
-
----
-
-## Top Products
-
-<img width="100%" src="Images/top_products.png">
-
----
-
-## Discount vs Profit
-
-<img width="100%" src="Images/discount_profit.png">
-
----
-
-# 📁 Repository Structure
-
-```
-Retail-Sales-Analysis
-│
-├── Analysis Report.pdf
-├── Retail_Sales_Analysis_Dataset.xlsx
-├── analysis.xlsx
-├── README.md
-└── Project Detail.txt
-```
+- Business Problem
+- Dataset Overview
+- KPI Summary
+- Monthly Sales Trend
+- Top Products Analysis
+- Worst Products Analysis
+- City-wise Revenue
+- Category Analysis
+- Discount vs Profit Analysis
+- Business Recommendations
+- Final Conclusion
 
 ---
 
@@ -163,31 +134,41 @@ Retail-Sales-Analysis
 
 - Data Cleaning
 - Data Analysis
-- Dashboard Design
-- Pivot Tables
-- Pivot Charts
+- Dashboard Development
 - KPI Reporting
-- Business Analysis
+- Business Intelligence
 - Data Visualization
+- Excel Automation
 - Business Storytelling
 
 ---
 
-# 📚 Key Learnings
+# 📚 Project Learnings
 
-- Built an interactive Excel dashboard.
-- Analyzed product and city performance.
-- Identified sales trends over time.
-- Measured the impact of discounts on profitability.
-- Converted raw data into actionable business insights.
+During this project I learned how to:
+
+- Analyze business data using Excel
+- Create interactive dashboards
+- Use Pivot Tables and Pivot Charts
+- Identify business trends
+- Generate actionable insights
+- Present findings using data storytelling
+
+---
+
+# ⭐ Why This Project Matters
+
+This project demonstrates practical data analytics skills that are commonly required in **Data Analyst internships** and entry-level analytics roles.
+
+It showcases the complete workflow from raw data to business insights using Microsoft Excel.
 
 ---
 
 # 👨‍💻 Author
 
-**Nitin Singh**
+### Nitin Singh
 
-Aspiring Data Analyst
+**Aspiring Data Analyst**
 
 ### Skills
 
@@ -197,8 +178,17 @@ Aspiring Data Analyst
 - Power BI
 - Data Analytics
 
+### Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/nsr2k06
+- 💻 GitHub: https://github.com/nsr-dev-in
+
 ---
 
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+It motivates me to build more Data Analytics projects.
+
+---
